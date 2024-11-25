@@ -5,7 +5,6 @@ def greet(name, cb):
     # time.sleep(3)
     cb()
 
-
 def say_bye():
     print('Bye!')
 
